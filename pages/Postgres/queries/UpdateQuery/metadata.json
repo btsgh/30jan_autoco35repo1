@@ -45,7 +45,8 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2024-01-30T09:01:20Z"
   },
   "id": "Postgres_UpdateQuery",
   "deleted": false,
